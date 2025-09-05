@@ -44,5 +44,9 @@
 	<classpathentry kind="lib" path="C:/Users/User/Downloads/selenium-java-4.34.0/selenium-safari-driver-4.34.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Downloads/selenium-java-4.34.0/selenium-support-4.34.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/slf4j-simple-2.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/slf4j-api-2.0.16.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
